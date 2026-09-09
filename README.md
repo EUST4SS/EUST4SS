@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="header.png" width="100%">
-</p>
 
-<p align="center">
-  <img src="bot111.png" width="100%">
-</p>
+
+<img src="wings.gif"> &nbsp; <img src="b.gif"> <img src="bb.gif"> <img src="ra.gif"> &nbsp; <img src="wings.gif">
